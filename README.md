@@ -16,6 +16,12 @@ Pequeno projeto para geração de HASH utilizando a biblioteca padrão do Python
 
 Dito na documentação da linguagem, todos os algoritmos acima são definidos no FIPS 180-2.
 
+## Executando
+
+```
+python3.8 main.py
+```
+
 ## Referência
 
 1 - [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)
